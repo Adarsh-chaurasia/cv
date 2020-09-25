@@ -1,0 +1,226 @@
+
+
+.nav-link{
+    padding: 10px 35px 10px !important;
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    padding-left: 70px;
+    font-size: 2rem !important;
+}
+#intro{
+    text-align: center;
+    align-items: center;
+    margin-top: 25px;   
+}
+.heading{
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 3%;
+}
+.nature-home{
+    width:1200px;
+    height: 500px;
+    padding-bottom: 40px;    
+}
+.active-slide{
+    width: 1470px;
+    margin: auto;
+    background-color: #f1f3de;
+}
+.description{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.desc-heading{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+p{
+    font-size: 1.5rem;
+    width:700px;
+    margin: auto;
+    padding-top: 40px;
+}
+.btn{
+    padding: 10px 60px !important;
+    border-radius: 30px !important;
+    font-size: 1.5rem !important;
+    font-weight: bold;
+    border: 2px solid black !important;
+    margin-top: 50px;
+}
+#about{
+    text-align: center;
+}
+#structure{
+    text-align: left;
+   
+    background-color: #f1f3de;
+    width:1450px;
+    margin:auto;
+}
+
+.villa{
+    width: 400px;
+    height: 450px;
+    transform: rotate(15deg);
+    margin: 100px auto 80px;
+    border: 5px solid black;   
+}
+.villa-a{
+    text-align: center;   
+}
+.str-heading{
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding: 50px 0 25px 0;
+    width: 420px;
+    margin:auto;
+}
+.str-text{
+    width: 420px;
+    margin:auto;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.word{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 50px ;
+    width: 420px;
+    margin:auto;
+}
+.unit{
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+.butt{
+    margin: 30px auto auto 210px;
+    border-radius: 30px;
+    padding: 2px 25px;
+    border: 3px solid black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+#reviews{
+   text-align: center;  
+}
+.customer{
+    padding-top: 40px;
+  
+}
+.review-text{
+    font-size:1.5rem;
+    font-weight: bold;
+    margin: 30px auto 15px;
+    width:350px;
+}
+.about-customer{
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.ftr-box{
+    box-shadow: 0px 0px 30px rgba(59, 61, 59, 0.567);
+    margin:50px 40px 30px;
+    width:350px;   
+}
+.rev{
+    width:1300px !important;
+}
+#pricing{
+    text-align: center;
+    width: 1400px;
+    margin: 50px auto;
+
+}
+.price-card{
+    
+    width:270px;
+    margin:auto;
+    background-color: #f4f6ff;
+    padding-top: 30px;
+    transition: 0.3s;
+    
+}
+.price-head-a{ 
+    width:130px;
+    height:130px;
+    margin: auto;
+    border: 30px solid lightgrey;
+    border-radius: 65px;
+    padding-top: 13px;
+    font-size: 2rem;
+    
+}
+.price-head{
+    font-weight: bold;
+    margin: 25px auto ;
+
+}
+.price-para{
+    color: grey;
+    font-size: 0.9rem;
+}
+price-para-a{
+    color:grey;
+    font-size: 1rem;
+    
+}
+.price-card hr{
+   width: 200px;
+   border-color: lightslategray;
+    
+}
+.price-num{
+   font-size: 2.25rem;
+   font-weight: bold;
+   margin: 30px auto;
+   display:block !important;
+   
+}
+.price-card:hover .price-num{
+    display:none !important;
+}
+
+.btn{
+    display:none !important;
+    margin:15px auto 20px;
+    padding:0 30px 3px !important;
+}
+.price-card:hover .btn{
+    display:block !important;
+   
+}
+
+.price-card:hover{
+     background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+     transform: scale(1.1);
+    
+   
+    
+}
+#footer{
+    text-align: center;
+    background-color:#bfdcae ;
+    font-size: 0.8rem;
+    font-weight: bold;
+    border-top: 3px solid darkslategray;
+    padding-bottom: 60px;
+    
+}
+.footer-list{
+    padding-top: 80px;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+#footer hr{
+    width: 70px;
+    border-top:8px dotted;
+    border-color:darkgreen;    
+}
+
+
